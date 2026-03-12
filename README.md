@@ -1,6 +1,6 @@
 # Hi, I'm Yago Vidal
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoVid&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoVid&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Yago Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoVid&show_icons=true&theme=tokyonight)
+![Yago Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoVid&show_icons=true&theme=dark)
 <div style="display: inline_block"><br>
   <img align="center" alt="Yago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
